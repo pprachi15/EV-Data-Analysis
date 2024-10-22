@@ -4,6 +4,11 @@
 
 The **Electric Vehicles Data Analysis** Tableau dashboard provides an interactive exploration of electric vehicle (EV) data across the United States. It highlights key metrics and trends, such as vehicle types, manufacturer rankings, growth over time, and regional distribution. This dashboard allows users to interact with filters for deeper insights into the EV market.
 
+#### [Click to view dashboard](https://public.tableau.com/shared/R82M7JZC5?:display_count=n&:origin=viz_share_link)
+
+<img width="1674" alt="Screenshot 2024-10-22 at 12 29 52 PM" src="https://github.com/user-attachments/assets/ea964f8b-4663-476b-94ca-e1d7d596f017">
+
+
 ## Features
 
 Key visualizations include:
