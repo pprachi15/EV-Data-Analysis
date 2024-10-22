@@ -6,7 +6,7 @@ The **Electric Vehicles Data Analysis** Tableau dashboard provides an interactiv
 
 #### [Click to view dashboard](https://public.tableau.com/shared/R82M7JZC5?:display_count=n&:origin=viz_share_link)
 
-<img width="1674" alt="Screenshot 2024-10-22 at 12 29 52 PM" src="https://github.com/user-attachments/assets/ea964f8b-4663-476b-94ca-e1d7d596f017">
+<img width="1675" alt="Screenshot 2024-10-22 at 12 32 16 PM" src="https://github.com/user-attachments/assets/bfeb73a7-0fb5-4a08-8cc0-9c6bf264cbd0">
 
 
 ## Features
